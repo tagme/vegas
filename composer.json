@@ -13,8 +13,17 @@
   "license": ["MIT"],
   "extra": {
     "component": {
+      "scripts": [
+        "dist/jquery.vegas.js"
+      ],
+      "stylesheets": [
+        "dist/jquery.vegas.css"
+      ],
       "files": [
-        "dist/*"
+        "dist/jquery.vegas.min.js",
+        "dist/jquery.vegas.min.css",
+        "dist/images/*",
+        "dist/overlays/*"
       ]
     }
   }
