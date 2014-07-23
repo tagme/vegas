@@ -10,5 +10,12 @@
       "homepage": "http://jaysalvat.com/"
     }
   ],
-  "license": ["MIT"]
+  "license": ["MIT"],
+  "extra": {
+    "component": {
+      "files": [
+        "dist/*"
+      ]
+    }
+  }
 }
