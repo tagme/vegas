@@ -14,14 +14,15 @@
   "extra": {
     "component": {
       "scripts": [
-        "dist/jquery.vegas.js"
+        "dist/vegas.js"
       ],
       "stylesheets": [
-        "dist/jquery.vegas.css"
+        "dist/vegas.css"
       ],
       "files": [
-        "dist/jquery.vegas.min.js",
-        "dist/jquery.vegas.min.css",
+        "dist/vegas.min.css",
+        "dist/vegas.min.js",
+        "dist/vegas.min.js.map",
         "dist/overlays/*"
       ]
     }
